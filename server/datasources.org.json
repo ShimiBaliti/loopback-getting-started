@@ -4,23 +4,23 @@
     "connector": "memory"
   },
   "mysqlIDs": {
-    "host": "localhost",
+    "host": "demo.strongloop.com",
     "port": 3306,
     "url": "",
     "database": "getting_started",
-    "password": "mysqladmin",
+    "password": "L00pBack",
     "name": "mysqlIDs",
-    "user": "root",
+    "user": "demo",
     "connector": "mysql"
   },
   "mongoDs": {
-    "host": "localhost",
+    "host": "demo.strongloop.com",
     "port": 27017,
     "url": "",
     "database": "getting_started_intermediate",
-    "password": "",
+    "password": "L00pBack",
     "name": "mongoDs",
-    "user": "test",
+    "user": "demo",
     "connector": "mongodb"
   }
 }
